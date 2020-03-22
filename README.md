@@ -5,7 +5,7 @@
 [NDK r17c](https://developer.android.google.cn/ndk/downloads/older_releases)  
 [FFmpeg 4.2.2](http://ffmpeg.org/download.html#releases)  
 [RTMP](https://github.com/yixia/librtmp)  
-系统 **Mac** 
+
 #### 3. 准备工作
 #### 3.1 注释clang，采用gcc编译  
 修改FFmpeg源码根目录：configure文件  
@@ -200,4 +200,4 @@ make install
 ```
 ##### 5.2 --extra-cflags 来源参考
 AndroidStudio工程目录: **NDKProject/FFmpegLearn/app/.cxx/cmake/debug/arm64-v8a/build.ninja**, 具体使用的AndroidStudio版本有关
-工程支持 *Native C++**
+工程支持 **Native C++**
