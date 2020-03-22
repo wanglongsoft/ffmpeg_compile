@@ -198,6 +198,6 @@ make install
 --arch=x86_64
 --cpu=x86_64
 ```
-##### 5.2
---extra-cflags 来源参考
-[AndroidStudio工程目录](NDKProject/FFmpegLearn/app/.cxx/cmake/release/arm64-v8a/build.ninja)
+##### 5.2 --extra-cflags 来源参考
+AndroidStudio工程目录: **NDKProject/FFmpegLearn/app/.cxx/cmake/debug/arm64-v8a/build.ninja**, 具体使用的AndroidStudio版本有关
+工程支持 *Native C++**
